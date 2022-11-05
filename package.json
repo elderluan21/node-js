@@ -1,0 +1,18 @@
+{
+  "name": "luan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {},
+  "description": ""
+}
